@@ -1,0 +1,2 @@
+# FactoryProductionEquipmentMaintenanceManagementSystem
+ 基于SpringBoot Vue工厂生产设备维护管理系统
